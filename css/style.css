@@ -1,0 +1,28 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.list-input{
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+    width: 400px;
+}
+.click-button{
+    border-radius: 10px;
+    background-color: green;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    padding: 10px;
+}
+.list{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.title{
+    text-align: center;
+}
